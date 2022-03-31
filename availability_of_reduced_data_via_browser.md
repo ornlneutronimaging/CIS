@@ -1,3 +1,5 @@
+[HOME](index.md)
+
 # Availability of reduced data using a browser
 
 1. Go to the **[ipts.ornl.gov](ipts.ornl.gov)** page
