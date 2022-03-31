@@ -1,0 +1,1 @@
+# Availability of reduced data using a browser
