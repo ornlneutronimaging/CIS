@@ -9,6 +9,6 @@ Information relevant to the imaging team, but not the users, will be documented 
     * [using browser](availability_of_reduced_data_via_browser.md)
 
 <hr>
-<img src='images/logo_with_green_ring.png' />
+<img src='images/logo_with_green_ring.png' style="width:200px;height:200px" />
 
 
