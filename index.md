@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the neutron imaging CIS page
+
+Information relevant to the imaging team, but not the users, will be documented here. 
+
+
 
 You can use the [editor on GitHub](https://github.com/ornlneutronimaging/CIS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
