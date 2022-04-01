@@ -2,7 +2,7 @@
 
 # Availability of reduced data using a browser
 
-1. Go to the **[http://ipts.ornl.gov](ipts.ornl.gov)** page
+1. Go to the **[IPTS](https://snsapp1.sns.ornl.gov/)** page
 
 <img src='images/ipts_ornl_gov.png' />
 
