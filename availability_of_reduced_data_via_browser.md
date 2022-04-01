@@ -32,3 +32,10 @@ Click the **Edit** button at the top of the table to enter *edit* mode.
 <img src='images/edit_table.gif' />
 
 5. Save the changes by clicking the **Save** button.
+
+6. It's possible to check the status of the data availability on the **Data Availability** page
+
+ * select your instrument
+ * select the **Start Date** of **01-JAN-22**
+
+<img src='images/data_available.png' />
